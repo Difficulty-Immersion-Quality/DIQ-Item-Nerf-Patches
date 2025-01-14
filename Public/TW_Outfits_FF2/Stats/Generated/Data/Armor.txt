@@ -566,6 +566,7 @@ using "WPN_Greatsword"
 data "RootTemplate" "3725479a-8752-4bc3-9736-5f663b716810"
 data "ValueUUID" "71191c11-966f-4c19-b4ee-eb36d31c4944"
 data "Rarity" "Common"
+data "ValueOverride" "1"
 
 new entry "TW_B_Diamond"
 type "Armor"
