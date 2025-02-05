@@ -6,7 +6,7 @@ data "ArmorClass" "10"
 data "Armor Class Ability" "Dexterity"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_FW_Momochi"
 type "Armor"
@@ -14,7 +14,7 @@ using "_Foot"
 data "RootTemplate" "b02a8d65-b189-4adc-bb7c-89075aa0d526"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_G_Momochi"
 type "Armor"
@@ -22,7 +22,7 @@ using "_Hand"
 data "RootTemplate" "5847f9ab-d866-4596-a42d-d372154a13fb"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_HW_Momochi"
 type "Armor"
@@ -30,7 +30,7 @@ using "ARM_Hat"
 data "RootTemplate" "f017dbc6-5160-4170-8ac5-deff95789e98"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_B_Landsaint"
 type "Armor"
@@ -40,7 +40,7 @@ data "ArmorClass" "10"
 data "Armor Class Ability" "Dexterity"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_C_Landsaint"
 type "Armor"
@@ -48,7 +48,7 @@ using "ARM_Cloak"
 data "RootTemplate" "3839c0c7-a86e-4148-b8ff-0bb38e34d2e1"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_FW_Landsaint"
 type "Armor"
@@ -56,7 +56,7 @@ using "_Foot"
 data "RootTemplate" "17bd6927-2c86-4a94-ac23-d4edf00e4e9a"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_G_Landsaint"
 type "Armor"
@@ -64,7 +64,7 @@ using "_Hand"
 data "RootTemplate" "8d387f83-363a-4745-a467-5c54e6c3d773"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_HW_Landsaint"
 type "Armor"
@@ -72,7 +72,7 @@ using "ARM_Hat"
 data "RootTemplate" "876cfefd-8d34-48f9-9923-872a7af18a43"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_B_Warg"
 type "Armor"
@@ -82,7 +82,7 @@ data "ArmorClass" "10"
 data "Armor Class Ability" "Dexterity"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_FW_Warg"
 type "Armor"
@@ -90,7 +90,7 @@ using "_Foot"
 data "RootTemplate" "fc78d64f-a2b1-4390-8054-3f5889aeafb7"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_G_Warg"
 type "Armor"
@@ -98,7 +98,7 @@ using "_Hand"
 data "RootTemplate" "602c40f1-d382-4e0e-92f0-587ca563eb5b"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_HW_Warg"
 type "Armor"
@@ -106,7 +106,7 @@ using "ARM_Hat"
 data "RootTemplate" "8303ce88-6e03-4aee-9b32-ae1a783dd5ba"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_G_Republican"
 type "Armor"
@@ -114,7 +114,7 @@ using "_Hand"
 data "RootTemplate" "099873cc-936b-44fc-a02d-b3a0b3af5241"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_HW_Shadowless"
 type "Armor"
@@ -122,7 +122,7 @@ using "ARM_Hat"
 data "RootTemplate" "d68332df-4da6-49a4-bbcc-cee854a64dac"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_HW_Warg2"
 type "Armor"
@@ -130,7 +130,7 @@ using "ARM_Hat"
 data "RootTemplate" "3af850e5-0d9b-4e0f-85ed-9992c4916e90"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_HW_Plague"
 type "Armor"
@@ -138,7 +138,7 @@ using "ARM_Hat"
 data "RootTemplate" "9eef4592-742b-4cad-984e-a4968c7e82f1"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_B_Hourne"
 type "Armor"
@@ -148,7 +148,7 @@ data "ArmorClass" "10"
 data "Armor Class Ability" "Dexterity"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_B_Hourne2"
 type "Armor"
@@ -158,7 +158,7 @@ data "ArmorClass" "10"
 data "Armor Class Ability" "Dexterity"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_FW_Hourne"
 type "Armor"
@@ -166,7 +166,7 @@ using "_Foot"
 data "RootTemplate" "bec641c1-7248-43eb-96cc-b1c7aeedb06d"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Common
+data "Rarity" "Common"
 
 new entry "TW_B_Metian"
 type "Armor"
@@ -266,7 +266,7 @@ data "Slot" "Underwear"
 data "RootTemplate" "31144c1e-2eab-4f07-81dc-0a7951e8a07d"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Uncommon"
+data "Rarity" "Common"
 data "Boosts" ""
 data "PassivesOnEquip" ""
 
@@ -299,7 +299,7 @@ data "Slot" "Underwear"
 data "RootTemplate" "67f133a9-b247-4ddf-9ba8-a915694583b6"
 data "ValueOverride" "1"
 data "Weight" "0.01"
-data "Rarity" "Uncommon"
+data "Rarity" "Common"
 data "Boosts" ""
 data "PassivesOnEquip" ""
 
