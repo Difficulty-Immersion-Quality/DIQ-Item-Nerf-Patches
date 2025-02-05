@@ -1,0 +1,6 @@
+new entry "TUT_BPH_GD"
+type "Object"
+using "_Container"
+data "RootTemplate" "b12882fd-47b6-4c74-9e32-70b5af27c76f"
+data "Weight" "0.01"
+data "ValueOverride" "1"
